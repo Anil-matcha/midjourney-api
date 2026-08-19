@@ -6,6 +6,9 @@
 
 A small Python SDK for calling **Midjourney V7, V8, and Niji** through [MuAPI](https://muapi.ai/midjourney?utm_source=github&utm_medium=readme&utm_campaign=midjourney-api). Generate four-image batches from text, optionally guide them with a reference image, and poll the asynchronous result with one API key.
 
+<p align="center"><a href="https://youtu.be/uhy7aRW4HUU"><img src="https://i.ytimg.com/vi/uhy7aRW4HUU/maxresdefault.jpg" width="720"></a></p>
+<p align="center"><a href="https://youtu.be/uhy7aRW4HUU"><b>▶ Watch: How to Access Midjourney API (V8, V7, Niji)</b></a></p>
+
 ## Related Projects
 
 - [Midjourney on MuAPI](https://muapi.ai/midjourney?utm_source=github&utm_medium=readme&utm_campaign=midjourney-api) — model landing page, capabilities, and access details.
