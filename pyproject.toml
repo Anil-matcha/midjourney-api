@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "midjourney-api"
+version = "0.1.0"
+description = "Python SDK for Midjourney V7, V8, and Niji image generation through MuAPI."
+readme = "README.md"
+requires-python = ">=3.9"
+authors = [{ name = "Anil Matcha" }]
+license = { text = "MIT" }
+classifiers = [
+  "License :: OSI Approved :: MIT License",
+  "Operating System :: OS Independent",
+  "Programming Language :: Python :: 3",
+]
+dependencies = ["requests>=2.31.0"]
+
+[project.urls]
+Homepage = "https://muapi.ai/midjourney"
+Repository = "https://github.com/Anil-matcha/midjourney-api"
+
+[tool.setuptools]
+py-modules = ["midjourney_api"]
