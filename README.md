@@ -18,7 +18,7 @@ A small Python SDK for calling **Midjourney V7, V8, and Niji** through [MuAPI](h
 - [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) — open-source studio for running generative image, video, and audio workflows.
 - [Flux-3-Dev-API](https://github.com/Anil-matcha/Flux-3-Dev-API) — sibling Python SDK for unified FLUX image and video workflows.
 - [MiniMax-H3-API](https://github.com/Anil-matcha/MiniMax-H3-API) — sibling Python SDK for asynchronous generative-video jobs.
-- [Generative-Media-Skills](https://github.com/SamurAIGPT/Generative-Media-Skills) — agent-ready skills for building generative-media pipelines.
+- [muapi-skills](https://github.com/SamurAIGPT/muapi-skills) — agent-ready skills for building generative-media pipelines.
 - [muapi-cli](https://github.com/SamurAIGPT/muapi-cli) — CLI and MCP access to the same MuAPI model catalog.
 
 ## Features
